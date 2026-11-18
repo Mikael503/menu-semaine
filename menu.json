@@ -1,0 +1,12 @@
+{
+  "semaine": "du 24 au 30 novembre",
+  "jours": [
+    { "jour": "Lundi", "recette": 1 },
+    { "jour": "Mardi", "recette": 7 },
+    { "jour": "Mercredi", "recette": 12 },
+    { "jour": "Jeudi", "recette": 18 },
+    { "jour": "Vendredi", "recette": 23 },
+    { "jour": "Samedi", "recette": 31 },
+    { "jour": "Dimanche", "recette": 999 }
+  ]
+}
